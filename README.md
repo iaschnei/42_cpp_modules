@@ -11,4 +11,4 @@ To try out the code, simply clone it and run make into the desired exercise fold
 |     01| Memory allocation, pointers to members, references, switch statement                                                                                            |
 |     02| Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form                                                                                     |
 |     03| Inheritance                                                                                                                                                     |
-
+|     04| Subtype polymorphism, abstract classes, interfaces                                                                                                              |
