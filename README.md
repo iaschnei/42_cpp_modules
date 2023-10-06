@@ -9,4 +9,6 @@ To try out the code, simply clone it and run make into the desired exercise fold
 |------:|-----------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     00| Introduction to c++, including topics like namespaces, classes, member functions, stdio streams, initialization lists, static, const, and some other basic stuff|
 |     01| Memory allocation, pointers to members, references, switch statement                                                                                            |
+|     02| Ad-hoc polymorphism, operator overloading and Orthodox Canonical class form                                                                                     |
+|     03| Inheritance                                                                                                                                                     |
 
